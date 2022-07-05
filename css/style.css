@@ -1,0 +1,60 @@
+.Baramenu--BgColor {
+  background-color: #fffbd6; }
+
+.Fototexto--Margin {
+  display: flex;
+  margin: 35px; }
+  .Fototexto--Margin .Fototexto_Img--Style {
+    border-radius: 5px; }
+  .Fototexto--Margin .Fototexto_Texto--Style {
+    text-align: center;
+    background-color: #bbbbbb;
+    border-radius: 10px; }
+    .Fototexto--Margin .Fototexto_Texto--Style .Fototexto_H2-Style {
+      font-family: 'Pattaya', sans-serif;
+      margin-top: 10px; }
+    .Fototexto--Margin .Fototexto_Texto--Style .Fototexto_H3-Style {
+      padding-top: 80px;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'Shadows Into Light', cursive; }
+
+#Safira--black {
+  color: black; }
+
+.NosotrosInfo {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 55px; }
+  .NosotrosInfo .NosotrosInfo_Texto--Style {
+    background-color: #bbbbbb;
+    border-radius: 10px;
+    margin: 10px; }
+  .NosotrosInfo .NosotrosInfo_Ubicacion--Style {
+    font-family: 'Pattaya', sans-serif; }
+  .NosotrosInfo .NosotrosInfo_H3--Style {
+    font-family: 'Pattaya', sans-serif; }
+  .NosotrosInfo .NosotrosInfo_P2--Style {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 25px; }
+  .NosotrosInfo .NosotrosInfo_P--Style {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    font-size: 25px; }
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 400px;
+  position: relative;
+  height: 0; }
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.TextoShop_Titulo--Stlye {
+  font-family: 'Pattaya', sans-serif; }
